@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name" translatable="false">IG Downloader</string>
+    <string name="btn_download_from_clipboard">PASTE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="interstitial_ad_unit" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_unit" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="how_to">How To</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tab_title_downloading">Download</string>
+    <string name="tab_title_history">History</string>
+    <string name="existed_download" translatable="false">File existed</string>
+    <string name="option_delete">Delete</string>
+    <string name="option_launch">Open Instagram</string>
+    <string name="option_copy">Copy Link</string>
+    <string name="option_share">Share</string>
+    <string name="menu_download_video">DownLoad</string>
+    <string name="menu_download_image">Download Thumbnail</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_pause">Pause</string>
+    <string-array name="fan_labels" >
+        <item>@string/menu_download_video</item>
+        <item>@string/menu_download_image</item>
+        <item>@string/menu_pause</item>
+        <item>@string/menu_delete</item>
+    </string-array>
+
+    <string name="download_home_lable">File saved to: /%s</string>
+    <string name="repost">Repost</string>
+    <string name="spider_request_error">Failed to get the download Link!</string>
+
+    <string name="download_from_send_action">Start get the download Link</string>
+    <string name="not_support_url">Please send the correct Link</string>
+
+
+    <string name="eheck_url_dialgo_title">Waiting.</string>
+    <string name="check_url">Checking Link....</string>
+
+    <string name="str_share_this_video">Share</string>
+
+    <string name="clipboard_copy_text">The Link has be copyed into clipboard</string>
+
+    <string name="download_result_success">Download Successed</string>
+    <string name="download_failed">Download Failed</string>
+    <string name="download_result_start">Start Download</string>
+
+
+    <string name="how_to_1">1.Open Instagram</string>
+    <string name="how_to_2">2.Open InstaDownloader</string>
+    <string name="how_to_3">3.Click the right button</string>
+
+    <string name="nav_rate_us">Rate Us</string>
+    <string name="nav_send">Send</string>
+    <string name="nav_change_language">Switch language</string>
+    <string name="file_count_format" translatable="false" formatted="false">%1d/%2d</string>
+
+    <string name="toast_downlaoded_video">Already Downloaded</string>
+    <string name="downloading_left_task_count">%d File Left</string>
+    <string name="option_copy_all">Copy All</string>
+    <string name="option_copy_tags">Copy HashTags</string>
+    <string name="btn_check_url">Check URL</string>
+    <string name="option_redownload">Download Again</string>
+
+    <string name="input_url">Please input the URL</string>
+    <string name="request_new_feature">Request New Feature</string>
+</resources>

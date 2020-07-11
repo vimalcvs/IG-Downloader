@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/instagram"
+            android:title="Instagram" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/icon_howto"
+            android:title="@string/how_to" />
+
+        <item android:title="Others">
+            <menu>
+
+                <item
+                    android:id="@+id/moreapp"
+                    android:icon="@drawable/ic_favorite_border_white_24dp"
+                    android:title="More Apps" />
+                <item
+                    android:id="@+id/nav_send"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Share It" />
+                <item
+                    android:id="@+id/nav_rate"
+                    android:icon="@drawable/icon_rate"
+                    android:title="@string/nav_rate_us" />
+            </menu>
+        </item>
+
+
+
+    </group>
+</menu>
